@@ -5,8 +5,13 @@ Para rodar esse projeto pelo terminal:
 
 Entrar na pasta src:
 
+```
 cd src/
+```
 
 rodar o seguinte comando:
 
+
+```
 go run main.go
+```
